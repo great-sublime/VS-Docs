@@ -1,0 +1,25 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "email": "john@example.com",
+      "password": "hashed_password_1",
+      "joined_date": "2023-01-15"
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "email": "jane@example.com",
+      "password": "hashed_password_2",
+      "joined_date": "2023-02-20"
+    },
+    {
+      "id": 3,
+      "username": "alice_jones",
+      "email": "alice@example.com",
+      "password": "hashed_password_3",
+      "joined_date": "2023-03-10"
+    }
+  ]
+}

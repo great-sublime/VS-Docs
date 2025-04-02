@@ -1,0 +1,16 @@
+{
+  "name": "my-studio-blog",
+  "version": "1.0.0",
+  "description": "A personal blog platform with articles, member functionalities, and a shop.",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
